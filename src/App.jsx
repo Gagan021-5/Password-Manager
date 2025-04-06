@@ -1,7 +1,7 @@
 import { useState,useEffect } from 'react'
 import './App.css'
 import Navabar from './components/Navabar'
-import Second from './components/second'
+import Second from './components/Second'
 import { MdDelete } from "react-icons/md";
 import { v4 as uuidv4 } from 'uuid';
 import { MdEdit } from "react-icons/md";
